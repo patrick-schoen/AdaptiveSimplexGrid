@@ -5,4 +5,4 @@
 ## Examples
 
 ## Copyright
-(c) 2018 Patrick Schön. All rights reserved.
+Patrick Schön, 2018. All rights reserved.
