@@ -4,9 +4,9 @@
 see ../example/readme_deutsch
 
 ## Examples
-1) Allen-Cahn equation: https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation 
+1) [Allen-Cahn equation](https://en.wikipedia.org/wiki/Allen%E2%80%93Cahn_equation)
 solved on a conforming, adaptive and decomposed simplex grid.
-2) Poisson equation: https://en.wikipedia.org/wiki/Poisson%27s_equation
+2) [Poisson equation](https://en.wikipedia.org/wiki/Poisson%27s_equation)
 
 ## References
 [1] Patrick Schön. [Bounded Complexity for Local Refinement of Arbitrary Conforming Tetrahedral Partitions.](https://www.researchgate.net/publication/357574547_Bounded_Complexity_for_Local_Refinement_of_Arbitrary_Conforming_Tetrahedral_Partitions)
